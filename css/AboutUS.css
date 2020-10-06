@@ -1,0 +1,131 @@
+#main{
+    width: initial;
+    text-align: center;
+    margin-top: 30px;
+    color: rgba(151, 145, 145);
+}
+#char{
+    width: initial;
+    height: 150px;
+}
+
+#AboutUS_Right{
+  float: right;
+  text-align: center;
+  background-color: black;
+
+}
+
+#AboutUS_Left{
+  float: left;
+  text-align: center;
+  background-color: gr;
+}
+
+h1{
+  text-align: center;
+  font-size: 28px;
+  font-family: Arial Black;
+}
+
+h2{
+  text-align: center;
+  font-size: 28px;
+  font-family: Arial Black;
+  color: black;
+  font-weight: bold;
+
+}
+
+p{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#Aboutus{
+  margin: 0 auto;
+  text-align: center;
+
+}
+
+#Aboutus_1{
+    width: initial;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#Aboutus_1box{
+  width: initial;
+  background-color:rgb(224, 224, 224);
+  font-size: 12px;
+  color: rgb(77, 74, 74);
+}
+
+#Aboutus_1 a{
+  font-weight: bold;
+  line-height: 40px;
+  font-size: 14px;
+}
+
+#Aboutus_1 img{
+    float: center;
+    margin-top: -180px;
+}
+
+#Aboutus_2{
+  margin: 0 auto;
+  text-align: center;
+  margin-top: -160px;
+  font-size: 12px;
+}
+
+#Aboutus_3{
+  margin: 0 auto;
+  text-align: center;
+  font-size: 12px;
+}
+
+#Aboutus_4{
+  margin: 0 auto;
+  text-align: center;
+  font-size: 12px;
+}
+
+#Aboutus_5{
+  margin: 0 auto;
+  text-align: center;
+  font-size: 12px;
+}
+
+hr{
+    width: initial;
+    height: 1nm;
+    background-color: #13162D
+}
+
+.Aboutbox {
+    text-align: center;
+    left: 10px;
+  }
+  
+ .Aboutbox ul {
+    padding: 10px 0;
+    margin: 0;
+  }
+
+  .Aboutbox ul > li {
+    margin: 0 20px;
+  }
+  
+.Aboutbox ul li:hover {
+    color: black;
+    font-weight: bold;
+  }
+  
+  
+
+@media only screen and (min-width: 520px) {
+    main {
+      max-width: 640px
+    }
+      }
